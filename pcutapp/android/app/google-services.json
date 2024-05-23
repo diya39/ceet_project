@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "207688553534",
+    "project_id": "info-power-cut",
+    "storage_bucket": "info-power-cut.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207688553534:android:9ade1037bf9b3e66d72d6f",
+        "android_client_info": {
+          "package_name": "com.example.pcutapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDezC_UPyNZRmV36eJtaYvr_LXbBgZKVq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
